@@ -1,0 +1,25 @@
+# Build outputs
+task1
+task4
+hexeditplus
+*.o
+*.out
+
+# Patched / scratch copies of the lab binaries
+*.bak
+*_fixed
+*_patched
+
+# Submission archives
+*.zip
+*.tar.gz
+*.tgz
+
+# OS & editor metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.vscode/
+.idea/
